@@ -1,4 +1,4 @@
-gpackage com.example.myquizapp;
+package com.example.myquizapp;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
